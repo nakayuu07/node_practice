@@ -1,0 +1,11 @@
+{
+  "name": "memo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "grunt": "^1.2.1",
+    "yargs": "4.7.1"
+  }
+}
